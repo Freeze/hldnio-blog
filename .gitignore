@@ -1,2 +1,5 @@
 __pycache__/*
 output/theme/*
+output/*
+.DS_Store
+content/.DS_Store
