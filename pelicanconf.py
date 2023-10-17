@@ -26,15 +26,15 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('holden\'s photo portfolio', 'https://mnowls.com/photos.html'),
-         ('mnowls.com - a website i am constantly tweaking', 'https://mnowls.com'),
+         ('photography portfolio', 'https://mnowls.com/photos.html'),
+         ('my other website', 'https://mnowls.com'),
+         ('owl map', 'https://mnowls.com/owls'),
          ('aurora dashboard (WIP)', 'https://mnowls.com/aurora.html'),
          ('hldn.io - blog (you are here)', 'https://hldn.io')
          )
 
 # Social widget
 SOCIAL = (
-          ('bluesky', 'https://bsky.app/profile/supercell.bsky.social'),
           ('instagram', 'https://instagram.com/hldnsmith'),
           ('twitter', 'https://twitter.com/mnhldn'),
           ('facebook', 'https://facebook.com/h0lden'),
