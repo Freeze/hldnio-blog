@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-         ('photography portfolio', 'https://mnowls.com/photos.html'),
+         ('photography portfolio', 'https://hldn.io/portfolio'),
          ('my other website', 'https://mnowls.com'),
          ('owl map', 'https://mnowls.com/owls'),
          ('aurora dashboard (WIP)', 'https://mnowls.com/aurora.html'),
